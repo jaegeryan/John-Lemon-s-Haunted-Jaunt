@@ -390,3 +390,96 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 84795.606770 seconds.
+  path: Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Gargoyle.prefab
+  artifactKey: Guid(ed67d87577c646546b4e374a15a72cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Gargoyle.prefab using Guid(ed67d87577c646546b4e374a15a72cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90abc9ce75d7c4c563b34f2260f7743') in 0.205605 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018273 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Unity project\John Lemon’s Haunted Jaunt\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Unity project\John Lemon’s Haunted Jaunt\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.551 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1552ms)
+		BeginReloadAssembly (259ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (1194ms)
+			LoadAssemblies (225ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (283ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (655ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (514ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3318 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (1.4 MB). Loaded Objects now: 3889.
+Memory consumption went from 213.8 MB to 212.4 MB.
+Total: 5.713500 ms (FindLiveObjects: 0.573600 ms CreateObjectMapping: 0.230100 ms MarkObjects: 4.471600 ms  DeleteObjects: 0.436600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 113.845061 seconds.
+  path: Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Gargoyle.prefab
+  artifactKey: Guid(ed67d87577c646546b4e374a15a72cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Gargoyle.prefab using Guid(ed67d87577c646546b4e374a15a72cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e15bf3e4e7ef9215d2c30b1beee51d') in 0.124874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.730149 seconds.
+  path: Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Ghost.prefab
+  artifactKey: Guid(5c25639ba85197644bbd92d9bc5f0e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Ghost.prefab using Guid(5c25639ba85197644bbd92d9bc5f0e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2768b2f758dc587d7cfdcccca51a93f6') in 0.039199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 123.695020 seconds.
+  path: Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Ghost.prefab
+  artifactKey: Guid(5c25639ba85197644bbd92d9bc5f0e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Ghost.prefab using Guid(5c25639ba85197644bbd92d9bc5f0e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bf086de281059fc89be123779204d4f') in 0.040691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.419066 seconds.
+  path: Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Ghost.prefab
+  artifactKey: Guid(5c25639ba85197644bbd92d9bc5f0e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Ghost.prefab using Guid(5c25639ba85197644bbd92d9bc5f0e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec03dbaa282445efbf98570cba78ed1') in 0.036132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.033423 seconds.
+  path: Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Ghost.prefab
+  artifactKey: Guid(5c25639ba85197644bbd92d9bc5f0e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityTechnologies/3DBeginnerTutorial/Prefabs/Ghost.prefab using Guid(5c25639ba85197644bbd92d9bc5f0e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73cf07dcce40b9831f19f45064447925') in 0.036672 seconds 
